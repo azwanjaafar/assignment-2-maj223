@@ -9,8 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Funfact about Mohd
 * He has two childrens named Orked and Jebat
-![This is a picture of Mohd's Family](C:\Users\azwan\OneDrive\Desktop\Fall 2020\NTRES6940\Family.jpg)
+&nbsp;
+
 * Genetics is always his passion since he watch CSI: Las vegas in 2003
-![CSI:Las Vegas](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-VINySx7ZG9pqRhzgws1V0X3LtbqXcHttDg&usqp=CAU)
+&nbsp; 
+
 * He is now working as government research scientist back in his home country Malaysia.
-![Mohd represents his country in IeNA,2019](C:\Users\azwan\OneDrive\Desktop\Fall 2020\NTRES6940\Malaysia.jpg)
