@@ -1,0 +1,16 @@
+---
+title: "Mark"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Some (slightly dull) things to know about Mark:
+
+* Pika are, perhaps, Mark's favorite mammal.
+
+* Mark is fond of greenhouses during winter.
+
+* For Mark, rainy and cold weather is ideal for outdoor recreation since there tend to be fewer people.
