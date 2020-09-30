@@ -1,0 +1,17 @@
+name: "my-website"
+navbar:
+  title: "Our Collaborative Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Mohd"
+      href: Mohd.html
+    - text: "Mark"
+      href: mark.html  
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
