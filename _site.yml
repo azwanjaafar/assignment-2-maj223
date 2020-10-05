@@ -1,6 +1,5 @@
 name: "my-website"
 navbar:
-  title: "Our Collaborative Website"
   left:
     - text: "Home"
       href: index.html
