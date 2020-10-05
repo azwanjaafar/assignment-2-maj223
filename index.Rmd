@@ -2,16 +2,14 @@
 title: "Welcome to Our Website"
 output: html_document
 ---
-
+***
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Check out our Github!
 
-***
-
 * Mohd Jaafar [link](https://github.com/azwanjaafar)
 * Mark Buckner [link](https://github.com/bcknr)
 
-![**The Batman**](https://pmcvariety.files.wordpress.com/2020/08/1182-the-batman-dc-fandome-teaser-youtube-5.png?w=1000)
+![**The Batman**](https://media0.giphy.com/media/Te0QfOk6K7NoWudlbP/200.gif)

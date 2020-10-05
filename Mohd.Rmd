@@ -3,6 +3,8 @@ title: "Mohd Jaafar"
 output: html_document
 ---
 
+***
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -11,10 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 * He has two childrens named Orked and Jebat
 &nbsp;
 
-* Genetics is always his passion since he watched CSI: Las vegas in 2003
+* Genetics is always his passion since he watched [CSI: Las vegas](https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation) in 2003
 &nbsp; 
 
-* He is now working as government research scientist back in his home country Malaysia.
+* He is now working as government research scientist back in his home country [Malaysia](https://en.wikipedia.org/wiki/Malaysia).
 &nbsp; 
 
 ![*This is Mohd*](https://github.com/azwanjaafar/assignment-2-maj223/blob/master/Family.jpg?raw=true)
