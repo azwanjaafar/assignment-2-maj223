@@ -15,3 +15,6 @@ knitr::opts_chunk$set(echo = TRUE)
 &nbsp; 
 
 * He is now working as government research scientist back in his home country Malaysia.
+&nbsp; 
+
+![*This is Mohd*](https://github.com/azwanjaafar/assignment-2-maj223/blob/master/Family.jpg?raw=true)

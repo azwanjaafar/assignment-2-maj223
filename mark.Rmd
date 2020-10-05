@@ -14,3 +14,5 @@ knitr::opts_chunk$set(echo = TRUE)
 * Mark is fond of greenhouses during winter.
 
 * For Mark, rainy and cold weather is ideal for outdoor recreation since there tend to be fewer people.
+
+![*This is Mark*](https://github.com/azwanjaafar/assignment-2-maj223/blob/master/70759701.jpg?raw=true)
