@@ -19,4 +19,4 @@ knitr::opts_chunk$set(echo = TRUE)
 * He is now working as government research scientist back in his home country [Malaysia](https://en.wikipedia.org/wiki/Malaysia).
 &nbsp; 
 
-![*This is Mohd*](https://github.com/azwanjaafar/assignment-2-maj223/blob/master/Family.jpg?raw=true)
+![*This is Mohd*](https://github.com/azwanjaafar/LIC-Data-Analysis/blob/main/Thankyou.jpg)
